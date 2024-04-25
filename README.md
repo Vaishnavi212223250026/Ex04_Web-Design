@@ -61,11 +61,12 @@ LIQUID FERTILIZERS:
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2024-04-25 230544.png>) 
+
 ![alt text](<Screenshot 2024-04-25 230446.png>) 
 ![alt text](<Screenshot 2024-04-25 230459.png>) 
 ![alt text](<Screenshot 2024-04-25 230509.png>) 
 ![alt text](<Screenshot 2024-04-25 230519.png>)
+![alt text](<Screenshot 2024-04-25 230544.png>) 
 
 
 ## RESULT
