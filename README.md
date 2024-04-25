@@ -26,9 +26,46 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
+<html>
+<head> 
+<title> Images </title>
+</head>
+<body> 
+<h2>
+CULTIVATOR:
+<br>
 
+<a href = "https://en.wikipedia.org/wiki/Cultivator">
+<img src = "D:\vasan\1.jpg" height="250" width="250">
+</a>
+<br>
+<br>
+HORTICULTURE CROPS:
+<br>
+<a href = "http://www.agritech.tnau.ac.in/horticulture/horti_index.html">
+<img src = "D:\vasan\6.jpg" height = "250" width="250">
+</a>
+<br> 
+<br>
+LIQUID FERTILIZERS:
+<br>
+<a href="https://www.liqui-grow.com/types-of-fertilizers/#:~:text=Liquid%20Fertilizers%20can%20be%20foliar,as%20a%20mid%2Dseason%20sidedress.">
+<img src = "D:\vasan\7.jpg"height="250" width="250">
+</a>
+<br>
+<br>
+</body>
+</html>
+
+```
 
 ## OUTPUT
+![alt text](<Screenshot 2024-04-25 230544.png>) 
+![alt text](<Screenshot 2024-04-25 230446.png>) 
+![alt text](<Screenshot 2024-04-25 230459.png>) 
+![alt text](<Screenshot 2024-04-25 230509.png>) 
+![alt text](<Screenshot 2024-04-25 230519.png>)
 
 
 ## RESULT
